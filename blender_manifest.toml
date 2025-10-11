@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "pataz_thumbnail_toolz"
+version = "1.0.0"
+name = "Pataz Thumbnail Toolz"
+tagline = "Tools for managing asset thumbnails"
+maintainer = "Daniel Salazar"
+type = "add-on"
+
+website = "https://github.com/ZanQdo/thumbnail_toolz"
+
+tags = ["Pipeline"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+copyright = ["2025 Daniel Salazar",]
+
+[permissions]
+files = "Save and load files from disk"
