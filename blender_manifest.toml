@@ -7,7 +7,7 @@ tagline = "Tools for managing asset thumbnails"
 maintainer = "Daniel Salazar"
 type = "add-on"
 
-website = "https://github.com/ZanQdo/thumbnail_toolz"
+website = "http://blenderaddon.com/"
 
 tags = ["Pipeline"]
 
@@ -15,7 +15,7 @@ blender_version_min = "4.2.0"
 
 license = ["SPDX:GPL-3.0-or-later"]
 
-copyright = ["2025 Daniel Salazar",]
+copyright = ["2026 Daniel Salazar",]
 
 [permissions]
 files = "Save and load files from disk"
