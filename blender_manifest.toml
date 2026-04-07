@@ -7,7 +7,7 @@ tagline = "Tools for managing asset thumbnails"
 maintainer = "Daniel Salazar"
 type = "add-on"
 
-website = "http://blenderaddon.com/"
+website = "https://blenderaddon.com/"
 
 tags = ["Pipeline"]
 
